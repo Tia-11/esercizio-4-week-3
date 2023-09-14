@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(16, 16, 60);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 6em;
+  color: white;
+  text-align: center;
+  margin-top: 0.5em;
+  font-weight: bold;
+}
+
+button {
+  display: block;
+  padding: 0.5em;
+  width: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.celle {
+  font-size: 2em;
+  color: white;
+  display: inline-block;
+  border: 1px solid white;
+  padding: 0.5em;
+  width: 1em;
+}
+
+#tombola {
+  width: 80em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+}
